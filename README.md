@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @urmsandeep
 - 👀 I’m interested in ... all things Software and Security
-- 🌱 I’m currently learning ... MLOps, Optimizing GPU resource utilization 
-- 💞️ I’m looking to collaborate on ... Security for Decentrailzed Systems
+- 🌱 I’m currently learning ... Cloud Infrasructure, MLOps, Optimizing GPU resource utilization 
+- 💞️ I’m looking to collaborate on ... Security for Decentrailzed Systems and Network Fabric
 - 📚 I’m currently reading ... **Hands-On Large Language Models by Jay Alammar and Maarten Grootendorst**
 - 📫 How to reach me ... mail me: **urmsandeep@gmail.com**
 
