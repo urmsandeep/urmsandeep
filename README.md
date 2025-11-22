@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @urmsandeep
 - 👀 I’m interested in ... all things Software, Infrastructure and Security
-- 🌱 I’m currently learning ... MLOps, Optimizing GPU resource utilization 
+- 🌱 I’m currently learning ... MLOps, GPU slicing, Infra Automation
 - 💞️ I’m looking to collaborate on ... Security for Decentrailzed Systems and Network Fabric
-- 📚 I’m currently reading ... **Hands-On Large Language Models by Jay Alammar and Maarten Grootendorst**
+- 📚 I’m currently reading ... **Quantum Computing for Everyone by Chris Bernhardt (Nov 2025)**
 - 📫 How to reach me ... mail me: **urmsandeep@gmail.com**
 
 <!---
